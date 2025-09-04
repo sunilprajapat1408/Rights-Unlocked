@@ -63,7 +63,7 @@ We welcome contributions to **Rights Unlocked**! Here’s how you can help:
 
 For questions or inquiries, please reach out to:
 
-- **Project Maintainer**: [Romin Mistry](https://github.com/sunilprajapat1408)
+- **Project Maintainer**: [Sunil Prajapat](https://github.com/sunilprajapat1408)
 - **Email**: sunilprajapat2907@gmail.com
 ---
 
