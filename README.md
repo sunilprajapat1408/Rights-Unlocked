@@ -52,11 +52,7 @@ We welcome contributions to **Rights Unlocked**! Here’s how you can help:
 5. Push to your fork: `git push origin feature-branch`.
 6. Open a pull request.
 
-Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for more detailed guidelines.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
@@ -67,8 +63,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or inquiries, please reach out to:
 
-- **Project Maintainer**: [Romin Mistry](https://github.com/romin18)
-- **Email**: charliecharlie1843@gmail.com
+- **Project Maintainer**: [Romin Mistry](https://github.com/sunilprajapat1408)
+- **Email**: sunilprajapat2907@gmail.com
 ---
 
 ### Optional Sections to Add (If Needed)
